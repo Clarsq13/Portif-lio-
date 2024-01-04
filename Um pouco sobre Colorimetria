@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Document</title> 
+</head> 
+<body> 
+<main id="main-doc"> 
+
+<section class="main-section" id="overview"> 
+<header>Introdução </header> 
+<p>A Colorimetria é uma ciência que estuda a percepção da cor pelo homem a partir da avaliação de matriz, intensidade e saturação.</p> 
+</section> 
+
+<section class="main-section" id="features"> 
+<header>Features</header> 
+
+<p>Na área da beleza, ela é apelidada como a “matemática das cores que todo cabeleireiro precisa conhecer”. De maneira resumida, é uma técnica utilizada por profissionais para identificar os tons mais adequados para os cabelos de cada cliente</p> 
+</section> 
+<section class="main-section" id="usage_guide"> 
+<header>Usage Guide</header> 
+
+<p>A Colorimetria capilar funciona como a bússola do colorista. A técnica exige um estudo dos tipos de cores e de como elas se comportam em relação às outras. Para aplicá-la de forma eficaz, é necessário compreender a chamada matemática das cores, que inclui a compreensão das cores primárias, secundárias e terciárias, além das tonalidades frias, quentes e neutras.Um profissional especializado precisa aplicar todo esse conhecimento na hora de colorir ou descolorir um cabelo. O círculo cromático, por exemplo, é muito útil para os cabeleireiros, pois permite modificar o tom dos fios somente com a combinação de cores.</p> 
+<section class="main-section" id="examples"> 
+<header>Benefícios</header>
+
+<li>Evita a necessidade de correções de tonalidade;</li>
+<li>Harmoniza os tons do cabelo natural e da pele;</li>
+<li>Deixa o cabelo mais bonito e saudável;</li>
+<li>Evita manchas nos cabelos;</li>
+<li>Oferece um resultado prolongado;</li>
+<li>Eleva a autoestima;</li>
+<li>Proporciona um efeito mais natural.</li>
+</section> 
+<section class="main-section" id="resources"> 
+<header>Altura Do Tom</header> 
+<p>A altura de tom é um conceito que diz quão claro ou escuro o cabelo está no momento, independentemente de ser natural ou obtida via colorações anteriores. Esses tons estão organizados em uma escala e são representados nas colorações pelo número que pode ser observado antes do ponto. Em uma tintura de número 6.1, por exemplo, o 6 é o número que representa o louro escuro na altura de tom dos fios. Veja a escala completa: </p> 
+<li>1.0 - Preto;</li>
+<li>2.0 - Castanho muito escuro;</li>
+<li>3.0 - Castanho escuro;</li>
+<li>4.0 - Castanho;</li>
+
+<li>5.0 -  Castanho claro;</li>
+<li>6.0 - Louro escuro;</li>
+<li>7.0 - Louro;</li>
+<li>8.0 - Louro claro;</li>
+<li>9.0 -  Louro muito claro;</li>
+<li>10.0 - Louro claríssimo;<li>
+<li>11.0 - Louro super claríssimo;</li>
+<li12.0 - Louro extra claro;</li>
+<li>4.0 - Castanho;</li>
+
+</section> 
+</main> 
+<nav id="navbar"> 
+<header>Navigation</header> 
+<a class="nav-link" href="#overview">Overview</a> 
+<a class="nav-link" href="#features">Features</a> 
+<a class="nav-link" href="#usage_guide">Usage Guide</a> 
+<a class="nav-link" href="#examples">Examples</a> 
+<a class="nav-link" href="#resources">Resources</a> 
+</nav>
